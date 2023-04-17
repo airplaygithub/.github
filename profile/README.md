@@ -6,6 +6,8 @@ We are working hard to get our first project out, so stay tuned!
 
 [![Join us on Discord](https://invidget.switchblade.xyz/3kh0?theme=dark)](https://discord.gg/3kh0)
 
+[![Join us on Discord](https://invidget.switchblade.xyz/desmos?theme=dark)](https://discord.gg/desmos)
+
 <!--
 
 **Here are some ideas to get you started:**
